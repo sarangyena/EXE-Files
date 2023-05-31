@@ -1,0 +1,2 @@
+Python: pyinstaller name.py --onefile
+CPP Files: g++ name.cpp

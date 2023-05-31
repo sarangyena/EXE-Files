@@ -1,0 +1,6 @@
+Student Information: 
+Student Number: 26893
+Student Name: mama mo
+Age: 13
+Address: TONDO
+Course: Bachelor of Science in Information System (BSIS)
